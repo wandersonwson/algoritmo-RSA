@@ -8,3 +8,4 @@ A atividade proposta era interdisciplinar, envolvendo as seguintes disciplinas:
 - POO.
 
 Em função de sua finalidade didática, as classes contém muitos comentários. O meu exemplo de código foi apresentado e explicado após a entrega dos alunos.
+Esta versão funciona apenas com números.
