@@ -54,8 +54,7 @@ public class Calculo {
             }
         }
         return i;
-    }
-    
+    } 
     /**
      * Define o valor para E, desde que (E*D) mod Z seja igual a 1.
      * @param D  número primo definido em relação a Z, onde MDC(D,Z) é igual a 1.
